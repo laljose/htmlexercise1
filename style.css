@@ -1,0 +1,16 @@
+body
+{
+	background-color: #ebebe0;
+	font-family: sans-serif;
+}
+.wrap
+{
+	width: 600px;
+	margin: auto;
+}
+blockquote
+{
+	text-align: center;
+	margin-left: 0;
+	border: 1px solid white;
+}
